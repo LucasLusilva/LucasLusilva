@@ -11,8 +11,8 @@ Olá, eu sou o Lucas Luanderson
   <img aling=center alt="Lucas-Jr" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
           
           
-          //
-          
+        
+
         
           
           
